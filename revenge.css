@@ -244,6 +244,11 @@ embed::after, marquee::after, nobr::after, noembed::after, wbr::after {
 	content: 'This element is empty. Why?' !important;
 }
 
+/* whitelist presentational spans */
+span:empty:not([role=presentation])::after {
+	content: '' !important;
+}
+
 /**
 * Sectioning elements, headers and footers
 ----------------------------------------------------------------------
