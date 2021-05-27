@@ -1,13 +1,16 @@
 {
   "name": "revenge.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A CSS snippet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.",
   "main": "revenge.css",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fiskhandlarn/REVENGE.CSS.git"
   },
-  "author": "Oskar Joelson <oskar@joelson.org>",
+  "author": "Heydon Pickering <heydon@heydonworks.com>",
+  "contributors": [
+    "Oskar Joelson <oskar@joelson.org>"
+  ],
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/fiskhandlarn/REVENGE.CSS/issues"
