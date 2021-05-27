@@ -7,8 +7,8 @@
     "type": "git",
     "url": "git+https://github.com/fiskhandlarn/REVENGE.CSS.git"
   },
-  "author": "Heydon Pickering <heydon@heydonworks.com>",
-  "license": "MIT",
+  "author": "Oskar Joelson <oskar@joelson.org>",
+  "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/fiskhandlarn/REVENGE.CSS/issues"
   },
