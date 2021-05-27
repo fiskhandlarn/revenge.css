@@ -1,6 +1,6 @@
 {
-  "name": "revenge.css",
-  "version": "1.0.1",
+  "name": "@fiskhandlarn/revenge.css",
+  "version": "1.0.0",
   "description": "A CSS snippet that puts pink error boxes (with messages in comic sans) everywhere you write bad HTML.",
   "main": "revenge.css",
   "repository": {
