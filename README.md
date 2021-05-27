@@ -1,5 +1,11 @@
 ## REVENGE.CSS
 
+<img src="russell.jpg" alt="blade" width="400" />
+
+[![Total Downloads](https://img.shields.io/npm/dt/@fiskhandlarn/REVENGE.CSS.svg)](https://www.npmjs.com/package/@fiskhandlarn/REVENGE.CSS)
+[![Latest Version](https://img.shields.io/npm/v/@fiskhandlarn/REVENGE.CSS.svg)](https://www.npmjs.com/package/@fiskhandlarn/REVENGE.CSS?activeTab=versions)
+[![License](https://img.shields.io/npm/l/@fiskhandlarn/REVENGE.CSS.svg)](https://www.npmjs.com/package/@fiskhandlarn/REVENGE.CSS)
+
 The premise of `revenge.css` is simple: A *CSS snippet/bookmarklet* that uses selectors to find bad markup, displaying ugly pink error messages in *comic sans serif* wherever you write bad HTML. If you activate the bookmarklet and the page gets lots of pink blotches, the author has included at least one of the following:
 
 * Misplaced &lt;div&gt;s
